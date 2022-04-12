@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="simpleframework:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/simpleframework_war_exploded</output-path>
+  <artifact type="exploded-war" name="simpleframework">
+    <output-path>$PROJECT_DIR$/out/artifacts/simpleframework</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="simpleframework/web/Web" />
       <element id="directory" name="WEB-INF">

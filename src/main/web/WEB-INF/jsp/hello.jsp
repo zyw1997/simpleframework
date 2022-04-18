@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-    <h1>${word}</h1>
+<h1>你好！${sessionScope.user.nickName}</h1>
 </body>
 </html>

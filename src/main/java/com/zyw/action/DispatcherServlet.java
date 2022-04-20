@@ -6,7 +6,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.Enumeration;
 import java.util.Map;
 
 /**
@@ -32,5 +31,9 @@ public class DispatcherServlet extends HttpServlet {
             }
             System.out.println();
         }
+        //根据请求的路径以及方式选择应答请求的处理action，并返回结果(视图)
+
+        //处理返回的视图结果，并且返回结果给客户端
+
     }
 }

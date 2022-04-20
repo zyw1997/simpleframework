@@ -1,4 +1,4 @@
-package generic;
+package demo.generic;
 
 /**
  * @Auther: zhengyiwen
